@@ -39,9 +39,11 @@ a:visited{
 }
 
 .avatar {
-    width: 200px;
+    width: 280px;
     border-radius: 50px;
     box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+    overflow: hidden;
+
 }
 
 .info p {
